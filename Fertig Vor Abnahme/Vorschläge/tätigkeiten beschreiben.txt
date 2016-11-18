@@ -1,0 +1,32 @@
+----allgemein
+Sharkesh Solutions is a service company that creates 
+world class web, mobile, and database applications. 
+We are dedicated to the success of our customers and 
+have a proven track record for delivering results.
+----
+
+
+---- datenbank
+We will listen to you and help define 
+data management needs and cost of implementation.
+
+Highly skilled programmers creating 
+user friendly interfaces and automated 
+processes to ensure data accuracy.
+
+Fast response to any potential data problems.  
+We’ll even work overnight to make sure your 
+software is not down a second longer than necessary.
+
+----
+
+
+---- webD
+Highly skilled programmers using the latest languages 
+such as PHP and XML to create efficient and secure web pages.
+
+Our team will work with you to take your ideas, brainstorms, 
+and creative juices to deploy smart web design concepts as well 
+as code a clean application that is custom to your business and 
+its objectives. We take your wild and crazy application concepts 
+and turn them into web realities!
