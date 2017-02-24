@@ -1,0 +1,4 @@
+9.0  
+2
+2       SQLCHAR       0	200	";"	1     PLZ	""
+6       SQLCHAR       0	200	"\n"	2     Ort	""
