@@ -1,0 +1,6 @@
+c:\users\kreimich\documents\visual studio 2015\Projects\List and Dictionary\List and Dictionary\bin\Debug\List and Dictionary.exe.config
+c:\users\kreimich\documents\visual studio 2015\Projects\List and Dictionary\List and Dictionary\bin\Debug\List and Dictionary.exe
+c:\users\kreimich\documents\visual studio 2015\Projects\List and Dictionary\List and Dictionary\bin\Debug\List and Dictionary.pdb
+c:\users\kreimich\documents\visual studio 2015\Projects\List and Dictionary\List and Dictionary\obj\Debug\List and Dictionary.csprojResolveAssemblyReference.cache
+c:\users\kreimich\documents\visual studio 2015\Projects\List and Dictionary\List and Dictionary\obj\Debug\List and Dictionary.exe
+c:\users\kreimich\documents\visual studio 2015\Projects\List and Dictionary\List and Dictionary\obj\Debug\List and Dictionary.pdb

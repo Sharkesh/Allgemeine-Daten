@@ -1,0 +1,5 @@
+c:\users\kreimich\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+c:\users\kreimich\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+c:\users\kreimich\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+c:\users\kreimich\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+c:\users\kreimich\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
